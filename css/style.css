@@ -1,0 +1,54 @@
+html * {
+    margin: 0%;
+
+}
+body{
+    text-align: center;
+    background-image: url(https://images.pexels.com/photos/2147287/pexels-photo-2147287.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-position: center;
+    background-size: 1800px;
+    color: white;
+    
+}
+#cabecalho{
+    height: 8vh;
+    background-color: rgb(197, 189, 189);
+    display: flex;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 13px;
+}
+h1{
+    padding-left: 550px;
+}
+#main{
+    height: 84vh;
+    color: white;
+    text-align: center;
+    display: flex;
+}
+#rodape{
+    height: 8vh;
+    background-color: white;
+
+}
+.video{
+    height: 300px;
+    padding: 20px;
+}
+.icones{
+    height: 40px;
+    padding-top: 10;
+}
+section h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+section div ul li{
+    color: white;
+    text-align: center;
+    
+}
+section div{
+    padding: 8vh;
+}
